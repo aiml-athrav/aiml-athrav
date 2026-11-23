@@ -57,7 +57,7 @@ AI/ML student from Pune. I build **full-stack web apps** and **AI-powered projec
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:4B2E9E,50:B3122D,100:0B1020&text=WEAPONS%20%26%20TECHNOLOGY&fontColor=F5F3EF&fontSize=28&fontAlignY=50" width="100%" alt="Weapons and Technology"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:4B2E9E,50:B3122D,100:0B1020&text=WEAPONS%20AND%20TECHNOLOGY&fontColor=F5F3EF&fontSize=28&fontAlignY=50" width="100%" alt="Weapons and Technology"/>
 
 <br/>
 
@@ -65,9 +65,7 @@ AI/ML student from Pune. I build **full-stack web apps** and **AI-powered projec
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts&theme=dark"/>
 
-<br/><br/>
-
-**TOOLS & TECHNOLOGIES**
+**TOOLS AND TECHNOLOGIES**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,nodejs,tailwind&theme=dark"/>
 
