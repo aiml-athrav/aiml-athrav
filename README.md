@@ -1,13 +1,13 @@
-
+html
 <!-- ========================================= -->
 <!-- ATHRAV KHANDELWAL | ANIME DEVELOPER PROFILE -->
 <!-- ========================================= -->
 
 <div align="center">
 
-<!-- ANIME HEADER WITH CENTERED NAME -->
+<!-- DEATH NOTE ANIME HEADER -->
 <img
-  src="./header.svg"
+  src="./Dark%20Anime%20Banner%20with%20Red%20Moon%20and%20Apple.png"
   width="100%"
   alt="Athrav Khandelwal Anime Header"
 />
@@ -20,26 +20,24 @@
   alt="Typing Animation"
 />
 
-<br/><br/>
+<br/>
 
-<!-- EDUCATION DETAILS -->
 📍 Pune, India · 🎓 B.Tech in Artificial Intelligence & Machine Learning
 
 <br/><br/>
 
 <!-- SOCIAL LINKS -->
 <a href="https://github.com/aiml-athrav">
-  <img src="https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=B9DDF2"/>
+  <img src="https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=B9DDF2" alt="GitHub"/>
 </a>
 
 <a href="https://linkedin.com/in/athravkhandelwal1230">
-  <img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=C9BFEA"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=C9BFEA" alt="LinkedIn"/>
 </a>
 
 </div>
 
 ---
-
 
 ## ⚔️ MY SQUAD
 
