@@ -1,4 +1,3 @@
-html
 <!-- ========================================= -->
 <!-- ATHRAV KHANDELWAL | ANIME DEVELOPER PROFILE -->
 <!-- ========================================= -->
@@ -21,20 +20,15 @@ html
 />
 
 <br/>
-
 📍 Pune, India · 🎓 B.Tech in Artificial Intelligence & Machine Learning
-
 <br/><br/>
-
 <!-- SOCIAL LINKS -->
 <a href="https://github.com/aiml-athrav">
   <img src="https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=B9DDF2" alt="GitHub"/>
 </a>
-
 <a href="https://linkedin.com/in/athravkhandelwal1230">
   <img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=C9BFEA" alt="LinkedIn"/>
 </a>
-
 </div>
 
 ---
