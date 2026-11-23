@@ -33,22 +33,11 @@
 
 <div align="center">
 
-<img src="./squad_banner.png" width="100%" alt="My Anime Squad"/>
-
-</div>
-
-### The Individual Legends
-
-<div align="center">
-
 <table>
 <tr>
 <td align="center" width="20%">
 <img src="./jinwoo.png" width="100%" alt="Sung Jin Woo"/>
-<br/>
-<b>SUNG JIN-WOO</b>
-<br/>
-<sub>SHADOW MONARCH</sub>
+<sub>Leveling Up</sub>
 </td>
 
 <td align="center" width="20%">
