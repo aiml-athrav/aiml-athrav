@@ -5,7 +5,17 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1020,45:4B2E9E,75:B3122D,100:0B1020&text=ATHRAV%20KHANDELWAL&fontSize=44&fontColor=F5F3EF&fontAlignY=40&desc=AI%20%2F%20ML%20STUDENT%20%C2%B7%20LEVELING%20UP%20EVERY%20DAY&descSize=14&descColor=C9BFEA&descAlignY=62&animation=fadeIn"/>
+<!-- CRIMSON APPLE DEMON BACKGROUND -->
+
+<img
+  width="100%"
+  src="./Crimson%20Apple%20Demon%20Wallpaper.png"
+  alt="Crimson Apple Demon Wallpaper"
+/>
+
+<br/>
+
+<!-- TYPING ANIMATION -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=C9BFEA&center=true&vCenter=true&width=620&lines=I+arise+from+beginner+to+Shadow+Monarch+of+code.;Python+%C2%B7+C%2B%2B+%C2%B7+Machine+Learning.;Building+the+future+with+AI.;Training+arc+never+ends."/>
 
