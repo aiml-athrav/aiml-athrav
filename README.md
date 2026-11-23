@@ -25,6 +25,7 @@
 </a>
 
 </div>
+
 ---
 
 ## 🗡️ ABOUT ME
@@ -35,9 +36,11 @@ AI/ML student from Pune. I build **full-stack web apps** and **AI-powered projec
 
 ---
 
-## 👑 DOMAIN EXPANSION: PROJECTS
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0B1020,50:B3122D,100:4B2E9E&text=DOMAIN%20EXPANSION%3A%20PROJECTS&fontColor=F5F3EF&fontSize=28&fontAlignY=50" width="100%" alt="Domain Expansion: Projects"/>
+
+<br/>
 
 | PROJECT | WHAT IT DOES | STACK |
 |:---|:---|:---|
@@ -52,19 +55,21 @@ AI/ML student from Pune. I build **full-stack web apps** and **AI-powered projec
 
 ---
 
-## 🛠️ WEAPONS & TECHNOLOGY
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:4B2E9E,50:B3122D,100:0B1020&text=WEAPONS%20%26%20TECHNOLOGY&fontColor=F5F3EF&fontSize=28&fontAlignY=50" width="100%" alt="Weapons and Technology"/>
+
+<br/>
 
 **PROGRAMMING LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts&theme=dark"/>
 
 <br/><br/>
 
 **TOOLS & TECHNOLOGIES**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,nodejs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,nodejs,tailwind&theme=dark"/>
 
 </div>
 
