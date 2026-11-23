@@ -5,12 +5,12 @@
 
 <div align="center">
 
-<!-- CRIMSON APPLE DEMON BACKGROUND -->
+<!-- ANIME HEADER WITH CENTERED NAME -->
 
 <img
   width="100%"
-  src="./Crimson%20Apple%20Demon%20Wallpaper.png"
-  alt="Crimson Apple Demon Wallpaper"
+  src="./header.svg"
+  alt="Athrav Khandelwal Anime Header"
 />
 
 <br/>
