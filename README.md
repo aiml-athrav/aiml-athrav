@@ -52,7 +52,8 @@ AI/ML student from Pune. I build **full-stack web apps** and **AI-powered projec
 | [**EduSync**](https://github.com/aiml-athrav/EduSync-smart-attendance-system-) | Full-stack attendance management system with separate Student, Teacher and Admin portals | Node.js · Express · MongoDB · Tailwind |
 | [**memeLearn**](https://github.com/aiml-athrav/memeLearn) | AI-powered educational meme platform, built for a hackathon | TypeScript |
 | [**Credit Card Fraud Detection**](https://github.com/aiml-athrav/credit-card-fraud-detection) | Machine learning model that flags fraudulent card transactions | Python |
-| [**GARUD**](https://github.com/aiml-athrav/GARUD) | ✏️ *Write one line here: what does GARUD actually do?* | JavaScript |
+| [**GARUD**](https://github.com/aiml-athrav/GARUD) | 
+Your Personal AI-Powered Assistant | JavaScript |
 | [**Automated Customer Service Bots**](https://github.com/aiml-athrav/Automated-customer-service-bots) | Automated customer service bots | JavaScript |
 | [**Portfolio**](https://github.com/aiml-athrav/athrav_portfolio) | Personal portfolio website | HTML |
 
