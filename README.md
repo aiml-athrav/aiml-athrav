@@ -10,15 +10,12 @@
   width="100%"
   alt="Athrav Khandelwal Anime Header"
 />
-<br/>
 
 <!-- TYPING ANIMATION -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=C9BFEA&center=true&vCenter=true&width=620&lines=I+arise+from+beginner+to+Shadow+Monarch+of+code.;Python+%C2%B7+C%2B%2B+%C2%B7+Machine+Learning.;Building+the+future+with+AI.;Training+arc+never+ends."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=C9BFEA&center=true&vCenter=true&width=620&height=30&lines=I+arise+from+beginner+to+Shadow+Monarch+of+code.;Python+%C2%B7+C%2B%2B+%C2%B7+Machine+Learning.;Building+the+future+with+AI.;Training+arc+never+ends."
   alt="Typing Animation"
 />
-
-<br/><br/>
 
 <a href="https://linkedin.com/in/athravkhandelwal1230">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -28,7 +25,6 @@
 </a>
 
 </div>
-
 ---
 
 ## 🗡️ ABOUT ME
