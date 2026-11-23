@@ -1,0 +1,52 @@
+
+<svg width="1600" height="500" viewBox="0 0 1600 500" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#08090d" stop-opacity="0.30"/>
+      <stop offset="50%" stop-color="#08090d" stop-opacity="0.58"/>
+      <stop offset="100%" stop-color="#08090d" stop-opacity="0.88"/>
+    </linearGradient>
+
+    <linearGradient id="title" x1="0" x2="1">
+      <stop offset="0%" stop-color="#d9c8ff"/>
+      <stop offset="50%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#ffb5c1"/>
+    </linearGradient>
+  </defs>
+
+  <image
+    href="https://raw.githubusercontent.com/aiml-athrav/aiml-athrav/main/Crimson%20Apple%20Demon%20Wallpaper.png"
+    width="1600"
+    height="500"
+    preserveAspectRatio="xMidYMid slice"
+  />
+
+  <rect width="1600" height="500" fill="url(#shade)"/>
+
+  <text
+    x="800"
+    y="235"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="76"
+    font-weight="bold"
+    letter-spacing="2"
+    fill="url(#title)">
+    ATHRAV KHANDELWAL
+  </text>
+
+  <text
+    x="800"
+    y="300"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="25"
+    letter-spacing="3"
+    fill="#e2d8f5">
+    AI / ML STUDENT · LEVELING UP EVERY DAY
+  </text>
+
+  <rect x="690" y="335" width="220" height="3" rx="2" fill="#b3122d"/>
+
+</svg>
