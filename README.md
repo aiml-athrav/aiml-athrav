@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="./squad.png" width="100%" alt="My Anime Squad"/>
+<img src="./squad_banner.png" width="100%" alt="My Anime Squad"/>
 
 </div>
 
