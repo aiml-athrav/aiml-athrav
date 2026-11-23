@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/aiml-athrav?tab=repositories">
-<img src="https://img.shields.io/badge/ALL_PROJECTS-B3122D?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/ALL_PROJECTS-6B1D2E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -30,7 +30,7 @@
 
 <!-- ============ ABOUT ME ============ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0B1020,45:3A1C71,100:B3122D&text=ABOUT%20ME&fontColor=F5F3EF&fontSize=24&fontAlignY=50" width="100%" alt="About Me"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:0B1020,55:1E2A4A,100:6B1D2E&text=ABOUT%20ME&fontColor=D5DAE5&fontSize=18&fontAlignY=50" width="100%" alt="About Me"/>
 </div>
 
 <br/>
@@ -43,7 +43,7 @@ AI/ML student from Pune. I build **full-stack web apps** and **AI-powered projec
 
 <!-- ============ PROJECTS ============ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0B1020,45:3A1C71,100:B3122D&text=DOMAIN%20EXPANSION%3A%20PROJECTS&fontColor=F5F3EF&fontSize=24&fontAlignY=50" width="100%" alt="Domain Expansion: Projects"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:0B1020,55:1E2A4A,100:6B1D2E&text=DOMAIN%20EXPANSION%3A%20PROJECTS&fontColor=D5DAE5&fontSize=18&fontAlignY=50" width="100%" alt="Domain Expansion: Projects"/>
 
 <br/>
 
@@ -62,7 +62,7 @@ AI/ML student from Pune. I build **full-stack web apps** and **AI-powered projec
 
 <!-- ============ WEAPONS ============ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0B1020,45:3A1C71,100:B3122D&text=WEAPONS%20AND%20TECHNOLOGY&fontColor=F5F3EF&fontSize=24&fontAlignY=50" width="100%" alt="Weapons and Technology"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:0B1020,55:1E2A4A,100:6B1D2E&text=WEAPONS%20AND%20TECHNOLOGY&fontColor=D5DAE5&fontSize=18&fontAlignY=50" width="100%" alt="Weapons and Technology"/>
 
 <br/>
 
@@ -80,19 +80,38 @@ AI/ML student from Pune. I build **full-stack web apps** and **AI-powered projec
 
 <!-- ============ TRAINING ARC ============ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0B1020,45:3A1C71,100:B3122D&text=TRAINING%20ARC&fontColor=F5F3EF&fontSize=24&fontAlignY=50" width="100%" alt="Training Arc"/>
-
-<br/>
-
-<img src="./training-arc.svg" width="100%" alt="Athrav class - training arc"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:0B1020,55:1E2A4A,100:6B1D2E&text=TRAINING%20ARC&fontColor=D5DAE5&fontSize=18&fontAlignY=50" width="100%" alt="Training Arc"/>
 </div>
+
+```python
+class Athrav:
+
+    name = "Athrav Khandelwal"
+    role = "AI / ML Student"
+
+    currently_learning = [
+        "Python",
+        "C++",
+        "Data Structures & Algorithms",
+        "Machine Learning"
+    ]
+
+    exploring = [
+        "Deep Learning",
+        "Generative AI",
+        "LLM Applications",
+        "Open Source"
+    ]
+
+    goal = "Build meaningful AI-powered solutions"
+    philosophy = "Learn deeply. Build meaningfully."
+```
 
 <br/>
 
 <!-- ============ SQUAD ============ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0B1020,45:3A1C71,100:B3122D&text=MY%20SQUAD&fontColor=F5F3EF&fontSize=24&fontAlignY=50" width="100%" alt="My Squad"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:0B1020,55:1E2A4A,100:6B1D2E&text=MY%20SQUAD&fontColor=D5DAE5&fontSize=18&fontAlignY=50" width="100%" alt="My Squad"/>
 
 <br/>
 
@@ -133,7 +152,7 @@ AI/ML student from Pune. I build **full-stack web apps** and **AI-powered projec
 
 <!-- ============ POWER LEVEL ============ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0B1020,45:3A1C71,100:B3122D&text=POWER%20LEVEL&fontColor=F5F3EF&fontSize=24&fontAlignY=50" width="100%" alt="Power Level"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:0B1020,55:1E2A4A,100:6B1D2E&text=POWER%20LEVEL&fontColor=D5DAE5&fontSize=18&fontAlignY=50" width="100%" alt="Power Level"/>
 
 <br/>
 
@@ -151,7 +170,7 @@ AI/ML student from Pune. I build **full-stack web apps** and **AI-powered projec
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B1020,45:3A1C71,100:B3122D&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0B1020,55:1E2A4A,100:6B1D2E&section=footer"/>
 
 **"ARISE." — Keep Leveling Up.**
 
