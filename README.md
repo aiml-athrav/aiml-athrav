@@ -191,16 +191,6 @@ class Athrav:
 
 ---
 
-## 🐍 07 — CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aiml-athrav/aiml-athrav/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-
-</div>
-
----
-
 ## 🌌 CONNECT WITH ME
 
 <div align="center">
