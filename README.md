@@ -6,36 +6,40 @@
 <div align="center">
 
 <!-- ANIME HEADER WITH CENTERED NAME -->
-
 <img
-  width="100%"
   src="./header.svg"
+  width="100%"
   alt="Athrav Khandelwal Anime Header"
 />
 
 <br/>
 
 <!-- TYPING ANIMATION -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=C9BFEA&center=true&vCenter=true&width=620&lines=I+arise+from+beginner+to+Shadow+Monarch+of+code.;Python+%C2%B7+C%2B%2B+%C2%B7+Machine+Learning.;Building+the+future+with+AI.;Training+arc+never+ends."
+  alt="Typing Animation"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=C9BFEA&center=true&vCenter=true&width=620&lines=I+arise+from+beginner+to+Shadow+Monarch+of+code.;Python+%C2%B7+C%2B%2B+%C2%B7+Machine+Learning.;Building+the+future+with+AI.;Training+arc+never+ends."/>
+<br/><br/>
 
-<br/>
-
+<!-- EDUCATION DETAILS -->
 📍 Pune, India · 🎓 B.Tech in Artificial Intelligence & Machine Learning
 
-<br/>
+<br/><br/>
 
+<!-- SOCIAL LINKS -->
 <a href="https://github.com/aiml-athrav">
-<img src="https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=B9DDF2"/>
+  <img src="https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=B9DDF2"/>
 </a>
 
 <a href="https://linkedin.com/in/athravkhandelwal1230">
-<img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=C9BFEA"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=C9BFEA"/>
 </a>
 
 </div>
 
 ---
+
 
 ## ⚔️ MY SQUAD
 
