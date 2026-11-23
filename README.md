@@ -1,100 +1,247 @@
-<!-- Header banner (colours: Jin-Woo purple -> Sukuna red -> Madara dark) -->
+
+<!-- ========================================= -->
+<!-- ATHRAV KHANDELWAL | ANIME DEVELOPER PROFILE -->
+<!-- ========================================= -->
+
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1020,45:4B2E9E,75:B3122D,100:0B1020&text=ATHRAV%20KHANDELWAL&fontSize=44&fontColor=F5F3EF&fontAlignY=40&desc=AI%20%2F%20ML%20STUDENT%20%C2%B7%20LEVELING%20UP%20EVERY%20DAY&descSize=14&descColor=C9BFEA&descAlignY=62&animation=fadeIn)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1020,45:4B2E9E,75:B3122D,100:0B1020&text=ATHRAV%20KHANDELWAL&fontSize=44&fontColor=F5F3EF&fontAlignY=40&desc=AI%20%2F%20ML%20STUDENT%20%C2%B7%20LEVELING%20UP%20EVERY%20DAY&descSize=14&descColor=C9BFEA&descAlignY=62&animation=fadeIn"/>
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=C9BFEA&center=true&vCenter=true&width=620&lines=I+arise+from+beginner+to+Shadow+Monarch+of+code.;Python+%C2%B7+C%2B%2B+%C2%B7+Machine+Learning.;Training+arc+never+ends.)](https://github.com/aiml-athrav)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=C9BFEA&center=true&vCenter=true&width=620&lines=I+arise+from+beginner+to+Shadow+Monarch+of+code.;Python+%C2%B7+C%2B%2B+%C2%B7+Machine+Learning.;Building+the+future+with+AI.;Training+arc+never+ends."/>
+
+<br/>
 
 📍 Pune, India · 🎓 B.Tech in Artificial Intelligence & Machine Learning
 
-[![GitHub](https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=B9DDF2)](https://github.com/aiml-athrav)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=C9BFEA)](https://linkedin.com/in/athravkhandelwal1230)
+<br/>
+
+<a href="https://github.com/aiml-athrav">
+<img src="https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=B9DDF2"/>
+</a>
+
+<a href="https://linkedin.com/in/athravkhandelwal1230">
+<img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=C9BFEA"/>
+</a>
 
 </div>
 
 ---
 
-## ⚔️ My Squad
+## ⚔️ MY SQUAD
 
-Five characters, five ways I approach code.
+**Five characters. Five different personalities. One developer journey.**
 
 <div align="center">
 
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| **Sung Jin-Woo** | **Sukuna** | **Tanjiro** | **Inosuke** | **Madara Uchiha** |
-| ![](https://img.shields.io/badge/Shadow_Monarch-4B2E9E?style=flat-square) | ![](https://img.shields.io/badge/King_of_Curses-B3122D?style=flat-square) | ![](https://img.shields.io/badge/Water_Breathing-1F7A4D?style=flat-square) | ![](https://img.shields.io/badge/Beast_Breathing-3B6E8F?style=flat-square) | ![](https://img.shields.io/badge/Sharingan-8B0000?style=flat-square) |
-| Level up daily | Ship big projects | Stay consistent | Break bugs head-on | Think long-term |
+<img src="./squad.png" width="100%" alt="My Anime Squad"/>
 
-<!--
-ADD GIFs HERE (optional):
-Find a GIF of each character on Tenor / Giphy, copy the direct .gif link and
-put it in a row below the names, like this:
+</div>
 
-| <img src="PASTE_GIF_LINK" width="150"> | <img src="PASTE_GIF_LINK" width="150"> | ... |
--->
+### The Individual Legends
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="./jinwoo.png" width="100%" alt="Sung Jin Woo"/>
+<br/>
+<b>SUNG JIN-WOO</b>
+<br/>
+<sub>SHADOW MONARCH</sub>
+</td>
+
+<td align="center" width="20%">
+<img src="./sukuna.png" width="100%" alt="Sukuna"/>
+<br/>
+<b>SUKUNA</b>
+<br/>
+<sub>KING OF CURSES</sub>
+</td>
+
+<td align="center" width="20%">
+<img src="./tanjiro.png" width="100%" alt="Tanjiro"/>
+<br/>
+<b>TANJIRO</b>
+<br/>
+<sub>WATER BREATHING</sub>
+</td>
+
+<td align="center" width="20%">
+<img src="./inosuke.png" width="100%" alt="Inosuke"/>
+<br/>
+<b>INOSUKE</b>
+<br/>
+<sub>BEAST BREATHING</sub>
+</td>
+
+<td align="center" width="20%">
+<img src="./madara.png" width="100%" alt="Madara"/>
+<br/>
+<b>MADARA</b>
+<br/>
+<sub>UCHIHA LEGEND</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🗡️ Jin-Woo Mode: Leveling Up
+## 🗡️ 01 — SHADOW MONARCH: ABOUT ME
 
-| | |
-|---|---|
-| 📚 **Training Arc** (learning now) | Python, C++, Data Structures & Algorithms, Machine Learning |
-| 🔭 **Next Arc** (exploring) | Deep Learning, Generative AI, LLM Applications, Open Source |
+I'm Athrav Khandelwal, an AI/ML student passionate about technology, programming and building intelligent systems.
 
-> **Learn deeply. Build meaningfully.**
+I enjoy exploring new technologies, solving problems and turning ideas into practical projects.
 
-## 🛠️ Weapons
+```python
+class Athrav:
 
-![Python](https://img.shields.io/badge/Python-4B2E9E?style=flat-square&logo=python&logoColor=F5F3EF)
-![C++](https://img.shields.io/badge/C++-B3122D?style=flat-square&logo=cplusplus&logoColor=F5F3EF)
-![JavaScript](https://img.shields.io/badge/JavaScript-1F7A4D?style=flat-square&logo=javascript&logoColor=F5F3EF)
-![TypeScript](https://img.shields.io/badge/TypeScript-3B6E8F?style=flat-square&logo=typescript&logoColor=F5F3EF)
-![Node.js](https://img.shields.io/badge/Node.js-8B0000?style=flat-square&logo=nodedotjs&logoColor=F5F3EF)
-![MongoDB](https://img.shields.io/badge/MongoDB-4B2E9E?style=flat-square&logo=mongodb&logoColor=F5F3EF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-B3122D?style=flat-square&logo=tailwindcss&logoColor=F5F3EF)
-![Git](https://img.shields.io/badge/Git-1F7A4D?style=flat-square&logo=git&logoColor=F5F3EF)
-![VS Code](https://img.shields.io/badge/VS_Code-3B6E8F?style=flat-square&logo=visualstudiocode&logoColor=F5F3EF)
+    name = "Athrav Khandelwal"
+    role = "AI / ML Student"
 
-## 👑 Domain Expansion: Projects
+    currently_learning = [
+        "Python",
+        "C++",
+        "Data Structures & Algorithms",
+        "Machine Learning"
+    ]
 
-| Mission | Details |
-|---|---|
-| [**GARUD**](https://github.com/aiml-athrav/GARUD) | AI-focused development project (JavaScript) |
-| [**EduSync**](https://github.com/aiml-athrav/EduSync-smart-attendance-system-) | Full-stack attendance system with Student, Teacher and Admin portals. Node.js, Express, MongoDB, Tailwind CSS |
-| [**memeLearn**](https://github.com/aiml-athrav/memeLearn) | TypeScript project |
-| [**Credit Card Fraud Detection**](https://github.com/aiml-athrav/credit-card-fraud-detection) | Machine learning project in Python |
-| [**Automated Customer Service Bots**](https://github.com/aiml-athrav/Automated-customer-service-bots) | JavaScript project |
-| [**Portfolio**](https://github.com/aiml-athrav/athrav_portfolio) | Personal portfolio website |
+    exploring = [
+        "Deep Learning",
+        "Generative AI",
+        "LLM Applications",
+        "Open Source"
+    ]
 
-[View all missions ↗](https://github.com/aiml-athrav?tab=repositories)
+    goal = "Build meaningful AI-powered solutions"
 
-## 🌊 Tanjiro's Consistency · 🐗 Inosuke's Bug Hunting · 👁️ Madara's Long Game
+    philosophy = "Learn deeply. Build meaningfully."
+```
 
-- **Tanjiro:** practise a little every single day, the same way he repeats his swings.
-- **Inosuke:** charge at bugs head-on, then fix them and move on.
-- **Madara:** plan big, think years ahead, build things that last.
+---
 
-## 📊 Power Level (GitHub stats)
+## 🧠 02 — TRAINING ARC
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aiml-athrav&show_icons=true&hide_border=true&bg_color=0B1020&title_color=B3122D&icon_color=4B2E9E&text_color=F5F3EF&ring_color=1F7A4D)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aiml-athrav&layout=compact&hide_border=true&bg_color=0B1020&title_color=4B2E9E&text_color=F5F3EF)
+<img src="https://img.shields.io/badge/CURRENTLY_LEARNING-4B2E9E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NEXT_LEVEL-B3122D?style=for-the-badge"/>
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=aiml-athrav&bg_color=0B1020&color=C9BFEA&line=B3122D&point=F5F3EF&area=true&hide_border=true)
+</div>
+
+| Training Arc 📚 | Next Arc 🔭 |
+|:---|:---|
+| Python | Deep Learning |
+| C++ | Generative AI |
+| DSA | LLM Applications |
+| Machine Learning | Open Source |
+
+> Learn deeply. Build meaningfully.
+
+---
+
+## 🛠️ 03 — WEAPONS & TECHNOLOGY
+
+<div align="center">
+
+**PROGRAMMING LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts"/>
+
+<br/><br/>
+
+**TOOLS & TECHNOLOGIES**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,nodejs,tailwind"/>
 
 </div>
 
 ---
 
+## 👑 04 — DOMAIN EXPANSION: PROJECTS
+
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0B1020,50:B3122D,100:4B2E9E&section=footer)
+| PROJECT | DESCRIPTION |
+|:---|:---|
+| [GARUD](https://github.com/aiml-athrav/GARUD) | AI-focused development project |
+| [Smart Attendance System](https://github.com/aiml-athrav/smart-attendance-system) | Smart attendance management project |
+| [Credit Card Fraud Detection](https://github.com/aiml-athrav/credit-card-fraud-detection) | Machine learning project |
+| [memeLearn](https://github.com/aiml-athrav/memeLearn) | Learning-focused development project |
+| [Portfolio](https://github.com/aiml-athrav/athrav_portfolio) | Personal portfolio website |
 
-*"Arise." — keep levelling up.*
+<br/>
+
+<a href="https://github.com/aiml-athrav?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-4B2E9E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🔥 05 — THE CHARACTER PHILOSOPHY
+
+<div align="center">
+
+| CHARACTER | DEVELOPER MINDSET |
+|:---:|:---|
+| ⚔️ Jin-Woo | Level up every day |
+| 🔥 Sukuna | Build with confidence |
+| 🌊 Tanjiro | Stay consistent |
+| 🐗 Inosuke | Face challenges directly |
+| 👁️ Madara | Think long-term |
+
+</div>
+
+---
+
+## 📊 06 — POWER LEVEL
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aiml-athrav&show_icons=true&hide_border=true&bg_color=0B1020&title_color=B9DDF2&icon_color=C9BFEA&text_color=F5F3EF&ring_color=B3122D"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiml-athrav&layout=compact&hide_border=true&bg_color=0B1020&title_color=B9DDF2&text_color=F5F3EF"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aiml-athrav&bg_color=0B1020&color=C9BFEA&line=B3122D&point=F5F3EF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 07 — CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aiml-athrav/aiml-athrav/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## 🌌 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/aiml-athrav">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/athravkhandelwal1230">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B1020,45:B3122D,100:4B2E9E&section=footer"/>
+
+**"ARISE." — Keep Leveling Up.**
+
+<sub>ATHRAV KHANDELWAL · AI / ML DEVELOPER IN PROGRESS</sub>
 
 </div>
