@@ -37,39 +37,27 @@
 <tr>
 <td align="center" width="20%">
 <img src="./jinwoo.png" width="100%" alt="Sung Jin Woo"/>
-<sub>Leveling Up</sub>
+<sub>keep levelling up</sub>
 </td>
 
 <td align="center" width="20%">
 <img src="./sukuna.png" width="100%" alt="Sukuna"/>
-<br/>
-<b>SUKUNA</b>
-<br/>
-<sub>KING OF CURSES</sub>
+<sub>Ship big projects</sub>
 </td>
 
 <td align="center" width="20%">
 <img src="./tanjiro.png" width="100%" alt="Tanjiro"/>
-<br/>
-<b>TANJIRO</b>
-<br/>
-<sub>WATER BREATHING</sub>
+<sub>Stay consistent</sub>
 </td>
 
 <td align="center" width="20%">
 <img src="./inosuke.png" width="100%" alt="Inosuke"/>
-<br/>
-<b>INOSUKE</b>
-<br/>
-<sub>BEAST BREATHING</sub>
+<sub>Break bugs head-on	</sub>
 </td>
 
 <td align="center" width="20%">
 <img src="./madara.png" width="100%" alt="Madara"/>
-<br/>
-<b>MADARA</b>
-<br/>
-<sub>UCHIHA LEGEND</sub>
+<sub>Think long-term</sub>
 </td>
 </tr>
 </table>
