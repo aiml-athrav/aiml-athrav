@@ -158,7 +158,6 @@ class Athrav:
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiml-athrav&layout=compact&hide_border=true&bg_color=0B1020&title_color=B9DDF2&text_color=F5F3EF"/>
 
-<br/><br/>
 </div>
 
 <br/>
