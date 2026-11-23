@@ -111,29 +111,25 @@ Attendance management system.
 
 </div>
 
-### `04 — DEVELOPMENT SIGNALS`
+
+### `04 / SYSTEM ANALYTICS`
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api?username=aiml-athrav&show_icons=true&hide_border=true&bg_color=0B1020&title_color=B9DDF2&icon_color=F3B69B&text_color=F5F3EF&ring_color=C9BFEA&include_all_commits=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aiml-athrav&show_icons=true&hide_border=true&bg_color=0B1020&title_color=B9DDF2&icon_color=C9BFEA&text_color=F5F3EF&ring_color=F3B69B&hide_title=false" />
 
-<br/>
-
-<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiml-athrav&layout=compact&hide_border=true&bg_color=0B1020&title_color=C9BFEA&text_color=F5F3EF&langs_count=5"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiml-athrav&layout=compact&hide_border=true&bg_color=0B1020&title_color=B9DDF2&text_color=F5F3EF&hide=TeX" />
 
 </div>
 
-### `05 — ACTIVITY FREQUENCY`
+### `05 / NEURAL ACTIVITY`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aiml-athrav&bg_color=0B1020&color=B9DDF2&line=C9BFEA&point=F3B69B&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aiml-athrav&bg_color=0B1020&color=B9DDF2&line=C9BFEA&point=F3B69B&area=true&hide_border=true" />
 
 </div>
 
----
-
-<div align="center">
 
 ### ESTABLISH CONNECTION
 
