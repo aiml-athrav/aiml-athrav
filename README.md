@@ -9,60 +9,72 @@
   src="./Dark%20Anime%20Banner%20with%20Red%20Moon%20and%20Apple.png"
   width="100%"
   alt="Athrav Khandelwal Anime Header"
-/> <br/>
+/>
+<br/>
+
 <!-- TYPING ANIMATION -->
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=C9BFEA&center=true&vCenter=true&width=620&lines=I+arise+from+beginner+to+Shadow+Monarch+of+code.;Python+%C2%B7+C%2B%2B+%C2%B7+Machine+Learning.;Building+the+future+with+AI.;Training+arc+never+ends."
   alt="Typing Animation"
 />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/athravkhandelwal1230">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/aiml-athrav?tab=repositories">
+<img src="https://img.shields.io/badge/ALL_PROJECTS-B3122D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-## ⚔️ MY SQUAD
+## 🗡️ ABOUT ME
 
-**Five characters. Five different personalities. One developer journey.**
+AI/ML student from Pune. I build **full-stack web apps** and **AI-powered projects**, and I'm going deeper into Machine Learning, Deep Learning and Generative AI.
+
+> **Learn deeply. Build meaningfully.**
+
+---
+
+## 👑 DOMAIN EXPANSION: PROJECTS
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="./jinwoo.png" width="100%" alt="Sung Jin Woo"/>
-<sub>keep levelling up</sub>
-</td>
-
-<td align="center" width="20%">
-<img src="./sukuna.png" width="100%" alt="Sukuna"/>
-<sub>Ship big projects</sub>
-</td>
-
-<td align="center" width="20%">
-<img src="./tanjiro.png" width="100%" alt="Tanjiro"/>
-<sub>Stay consistent</sub>
-</td>
-
-<td align="center" width="20%">
-<img src="./inosuke.png" width="100%" alt="Inosuke"/>
-<sub>Break bugs head-on	</sub>
-</td>
-
-<td align="center" width="20%">
-<img src="./madara.png" width="100%" alt="Madara"/>
-<sub>Think long-term</sub>
-</td>
-</tr>
-</table>
+| PROJECT | WHAT IT DOES | STACK |
+|:---|:---|:---|
+| [**EduSync**](https://github.com/aiml-athrav/EduSync-smart-attendance-system-) | Full-stack attendance management system with separate Student, Teacher and Admin portals | Node.js · Express · MongoDB · Tailwind |
+| [**memeLearn**](https://github.com/aiml-athrav/memeLearn) | AI-powered educational meme platform, built for a hackathon | TypeScript |
+| [**Credit Card Fraud Detection**](https://github.com/aiml-athrav/credit-card-fraud-detection) | Machine learning model that flags fraudulent card transactions | Python |
+| [**GARUD**](https://github.com/aiml-athrav/GARUD) | ✏️ *Write one line here: what does GARUD actually do?* | JavaScript |
+| [**Automated Customer Service Bots**](https://github.com/aiml-athrav/Automated-customer-service-bots) | Automated customer service bots | JavaScript |
+| [**Portfolio**](https://github.com/aiml-athrav/athrav_portfolio) | Personal portfolio website | HTML |
 
 </div>
 
 ---
 
-## 🗡️ 01 — SHADOW MONARCH: ABOUT ME
+## 🛠️ WEAPONS & TECHNOLOGY
 
-I'm Athrav Khandelwal, an AI/ML student passionate about technology, programming and building intelligent systems.
+<div align="center">
 
-I enjoy exploring new technologies, solving problems and turning ideas into practical projects.
+**PROGRAMMING LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts"/>
+
+<br/><br/>
+
+**TOOLS & TECHNOLOGIES**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,nodejs,tailwind"/>
+
+</div>
+
+---
+
+## 🧠 TRAINING ARC
 
 ```python
 class Athrav:
@@ -85,89 +97,51 @@ class Athrav:
     ]
 
     goal = "Build meaningful AI-powered solutions"
-
     philosophy = "Learn deeply. Build meaningfully."
 ```
 
 ---
 
-## 🧠 02 — TRAINING ARC
+## ⚔️ MY SQUAD
+
+**Five characters. Five mindsets. One developer journey.**
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CURRENTLY_LEARNING-4B2E9E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NEXT_LEVEL-B3122D?style=for-the-badge"/>
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="./jinwoo.png" width="100%" alt="Sung Jin Woo"/>
+<br/><sub><b>Jin-Woo</b><br/>Level up every day</sub>
+</td>
 
-</div>
+<td align="center" width="20%">
+<img src="./sukuna.png" width="100%" alt="Sukuna"/>
+<br/><sub><b>Sukuna</b><br/>Ship big projects</sub>
+</td>
 
-| Training Arc 📚 | Next Arc 🔭 |
-|:---|:---|
-| Python | Deep Learning |
-| C++ | Generative AI |
-| DSA | LLM Applications |
-| Machine Learning | Open Source |
+<td align="center" width="20%">
+<img src="./tanjiro.png" width="100%" alt="Tanjiro"/>
+<br/><sub><b>Tanjiro</b><br/>Stay consistent</sub>
+</td>
 
-> Learn deeply. Build meaningfully.
+<td align="center" width="20%">
+<img src="./inosuke.png" width="100%" alt="Inosuke"/>
+<br/><sub><b>Inosuke</b><br/>Break bugs head-on</sub>
+</td>
 
----
-
-## 🛠️ 03 — WEAPONS & TECHNOLOGY
-
-<div align="center">
-
-**PROGRAMMING LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts"/>
-
-<br/><br/>
-
-**TOOLS & TECHNOLOGIES**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,nodejs,tailwind"/>
-
-</div>
-
----
-
-## 👑 04 — DOMAIN EXPANSION: PROJECTS
-
-<div align="center">
-
-| PROJECT | DESCRIPTION |
-|:---|:---|
-| [GARUD](https://github.com/aiml-athrav/GARUD) | AI-focused development project |
-| [Smart Attendance System](https://github.com/aiml-athrav/smart-attendance-system) | Smart attendance management project |
-| [Credit Card Fraud Detection](https://github.com/aiml-athrav/credit-card-fraud-detection) | Machine learning project |
-| [memeLearn](https://github.com/aiml-athrav/memeLearn) | Learning-focused development project |
-| [Portfolio](https://github.com/aiml-athrav/athrav_portfolio) | Personal portfolio website |
-
-<br/>
-
-<a href="https://github.com/aiml-athrav?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-4B2E9E?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<td align="center" width="20%">
+<img src="./madara.png" width="100%" alt="Madara"/>
+<br/><sub><b>Madara</b><br/>Think long-term</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🔥 05 — THE CHARACTER PHILOSOPHY
-
-<div align="center">
-
-| CHARACTER | DEVELOPER MINDSET |
-|:---:|:---|
-| ⚔️ Jin-Woo | Level up every day |
-| 🔥 Sukuna | Build with confidence |
-| 🌊 Tanjiro | Stay consistent |
-| 🐗 Inosuke | Face challenges directly |
-| 👁️ Madara | Think long-term |
-
-</div>
-
----
-
-## 📊 06 — POWER LEVEL
+## 📊 POWER LEVEL
 
 <div align="center">
 
@@ -183,19 +157,7 @@ class Athrav:
 
 ---
 
-## 🌌 CONNECT WITH ME
-
 <div align="center">
-
-<a href="https://github.com/aiml-athrav">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/athravkhandelwal1230">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B1020,45:B3122D,100:4B2E9E&section=footer"/>
 
