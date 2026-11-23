@@ -26,19 +26,24 @@
 
 </div>
 
----
+<br/>
 
-## 🗡️ ABOUT ME
+<!-- ============ ABOUT ME ============ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0B1020,45:3A1C71,100:B3122D&text=ABOUT%20ME&fontColor=F5F3EF&fontSize=24&fontAlignY=50" width="100%" alt="About Me"/>
+</div>
+
+<br/>
 
 AI/ML student from Pune. I build **full-stack web apps** and **AI-powered projects**, and I'm going deeper into Machine Learning, Deep Learning and Generative AI.
 
 > **Learn deeply. Build meaningfully.**
 
----
+<br/>
 
+<!-- ============ PROJECTS ============ -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0B1020,50:B3122D,100:4B2E9E&text=DOMAIN%20EXPANSION%3A%20PROJECTS&fontColor=F5F3EF&fontSize=28&fontAlignY=50" width="100%" alt="Domain Expansion: Projects"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0B1020,45:3A1C71,100:B3122D&text=DOMAIN%20EXPANSION%3A%20PROJECTS&fontColor=F5F3EF&fontSize=24&fontAlignY=50" width="100%" alt="Domain Expansion: Projects"/>
 
 <br/>
 
@@ -47,17 +52,17 @@ AI/ML student from Pune. I build **full-stack web apps** and **AI-powered projec
 | [**EduSync**](https://github.com/aiml-athrav/EduSync-smart-attendance-system-) | Full-stack attendance management system with separate Student, Teacher and Admin portals | Node.js · Express · MongoDB · Tailwind |
 | [**memeLearn**](https://github.com/aiml-athrav/memeLearn) | AI-powered educational meme platform, built for a hackathon | TypeScript |
 | [**Credit Card Fraud Detection**](https://github.com/aiml-athrav/credit-card-fraud-detection) | Machine learning model that flags fraudulent card transactions | Python |
-| [**GARUD**](https://github.com/aiml-athrav/GARUD) | Your Personal AI-Powered Assistant | JavaScript |
+| [**GARUD**](https://github.com/aiml-athrav/GARUD) | ✏️ *Write one line here: what does GARUD actually do?* | JavaScript |
 | [**Automated Customer Service Bots**](https://github.com/aiml-athrav/Automated-customer-service-bots) | Automated customer service bots | JavaScript |
 | [**Portfolio**](https://github.com/aiml-athrav/athrav_portfolio) | Personal portfolio website | HTML |
 
 </div>
 
----
+<br/>
 
+<!-- ============ WEAPONS ============ -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:4B2E9E,50:B3122D,100:0B1020&text=WEAPONS%20AND%20TECHNOLOGY&fontColor=F5F3EF&fontSize=28&fontAlignY=50" width="100%" alt="Weapons and Technology"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0B1020,45:3A1C71,100:B3122D&text=WEAPONS%20AND%20TECHNOLOGY&fontColor=F5F3EF&fontSize=24&fontAlignY=50" width="100%" alt="Weapons and Technology"/>
 
 <br/>
 
@@ -71,41 +76,27 @@ AI/ML student from Pune. I build **full-stack web apps** and **AI-powered projec
 
 </div>
 
----
+<br/>
 
-## 🧠 TRAINING ARC
+<!-- ============ TRAINING ARC ============ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0B1020,45:3A1C71,100:B3122D&text=TRAINING%20ARC&fontColor=F5F3EF&fontSize=24&fontAlignY=50" width="100%" alt="Training Arc"/>
 
-```python
-class Athrav:
+<br/>
 
-    name = "Athrav Khandelwal"
-    role = "AI / ML Student"
+<img src="./training-arc.svg" width="100%" alt="Athrav class - training arc"/>
 
-    currently_learning = [
-        "Python",
-        "C++",
-        "Data Structures & Algorithms",
-        "Machine Learning"
-    ]
+</div>
 
-    exploring = [
-        "Deep Learning",
-        "Generative AI",
-        "LLM Applications",
-        "Open Source"
-    ]
+<br/>
 
-    goal = "Build meaningful AI-powered solutions"
-    philosophy = "Learn deeply. Build meaningfully."
-```
+<!-- ============ SQUAD ============ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0B1020,45:3A1C71,100:B3122D&text=MY%20SQUAD&fontColor=F5F3EF&fontSize=24&fontAlignY=50" width="100%" alt="My Squad"/>
 
----
-
-## ⚔️ MY SQUAD
+<br/>
 
 **Five characters. Five mindsets. One developer journey.**
-
-<div align="center">
 
 <table>
 <tr>
@@ -138,11 +129,13 @@ class Athrav:
 
 </div>
 
----
+<br/>
 
-## 📊 POWER LEVEL
-
+<!-- ============ POWER LEVEL ============ -->
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0B1020,45:3A1C71,100:B3122D&text=POWER%20LEVEL&fontColor=F5F3EF&fontSize=24&fontAlignY=50" width="100%" alt="Power Level"/>
+
+<br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aiml-athrav&show_icons=true&hide_border=true&bg_color=0B1020&title_color=B9DDF2&icon_color=C9BFEA&text_color=F5F3EF&ring_color=B3122D"/>
 
@@ -154,11 +147,11 @@ class Athrav:
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B1020,45:B3122D,100:4B2E9E&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B1020,45:3A1C71,100:B3122D&section=footer"/>
 
 **"ARISE." — Keep Leveling Up.**
 
